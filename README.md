@@ -17,6 +17,7 @@ I set out to attempt to answer these questions and investigate their match by us
 ## Project Files:
   1. `main.py`: this script pulls the data from chess.com public apis and creates the two csv files: games file, and moves file
   2. `evaluate_moves.py`: this script uses stockfish 15 to evaluate each move made in the moves file
+  3. `SCC MagnusVsFabi Analysis.ipynb`: This is the notebook where we perform the game data analysis.
   
  
 ### runtime requirements:
